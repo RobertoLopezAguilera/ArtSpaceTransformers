@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtCompose</string>
+    <string name="t1">Optimus Prime</string>
+    <string name="t2">Bumblebe</string>
+    <string name="t3">Centinel Prime</string>
+    <string name="t4">Megatron</string>
+
+    <string name="creacionT1">Lider de los autobots</string>
+    <string name="creacionT2">Coprotagonista de la saga de Transformers</string>
+    <string name="creacionT3">Antiguo lider los los autobots</string>
+    <string name="creacionT4">Enemigo declarado de Optimus Prime</string>
+</resources>
